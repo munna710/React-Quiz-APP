@@ -30,7 +30,7 @@ export default function UserForm() {
         />
         <br />
         <br />
-        <button type="submit" className="quiz-button">Submit</button>
+        <button type="submit">Submit</button>
       </form>
   );
 }
